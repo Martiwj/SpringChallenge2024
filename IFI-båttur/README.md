@@ -2,9 +2,13 @@
 
 Digøk skal arrangere årets IFI-båttur, og det er stor pågang av ivrige deltakere som ønsker å sikre seg billetter til sommerens store begivenhet. For å håndtere billettsalget, har Digøk satt opp en kø der deltakerne venter på å kjøpe billetter.
 
-Du har blitt gitt en liste tickets av lengde n, der tickets[i] representerer antall billetter den i-te personen ønsker å kjøpe. Hver person bruker nøyaktig 1 sekund for å kjøpe en billett. En person kan bare kjøpe 1 billett om gangen og må gå tilbake til slutten av køen (noe som skjer umiddelbart) for å kjøpe flere billetter. Hvis en person ikke har flere billetter å kjøpe, forlater personen køen.
+Du har blitt gitt en liste **tickets** av lengde **n**, der **tickets[i]** representerer antall billetter den i-te personen ønsker å kjøpe. Hver person bruker nøyaktig 1 sekund på å kjøpe en billett. En person kan bare kjøpe 1 billett om gangen og må gå tilbake til slutten av køen (noe som skjer umiddelbart) for å kjøpe flere billetter. Hvis en person ikke har flere billetter å kjøpe, forlater personen køen.
 
+<<<<<<< HEAD
 Din oppgave er å implementere en funksjon time_to_buy_tickets(tickets, k) som tar inn en 0-indeksert liste tickets med antall billetter hver person ønsker å kjøpe, og en posisjon k som representerer hvor langt bak i køen personen befinner seg (0-indeksert). Funksjonen skal returnere hvor lang tid det tar for personen på posisjon k å fullføre billettkjøpet. 
+=======
+Din oppgave er å implementere en funksjon som tar inn en 0-indeksert liste tickets med antall billetter hver person ønsker å kjøpe, og en posisjon k som representerer hvor langt bak i køen personen befinner seg (0-indeksert). Funksjonen skal returnere hvor lang tid det tar for personen på posisjon k å fullføre billettkjøpet.
+>>>>>>> 983acbec7fe958e20935aaf92db85b3a0798fc16
 
 <img src="img.jpg" alt="Alt Text" width="200">
 
