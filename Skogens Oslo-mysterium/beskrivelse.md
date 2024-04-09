@@ -9,6 +9,8 @@ Your task is to help restore balance to the forest by implementing a function th
 1. Implement a method `invertTree`, which takes the root node of a binary tree and reverses the structure so that the left child becomes the right child and vice versa.
 
 Excample:
+
+
 ![Screenshot 2024-04-09 at 12 10 59](https://github.com/Martiwj/Oppgaver-Spring-Challeng/assets/127878026/e88ffffe-834f-4a92-bebd-4731bdb8641c)
 
 
