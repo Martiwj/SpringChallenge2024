@@ -1,13 +1,17 @@
-# Oppgave: Skogens Oslo-mysterium
+## Task: The Oslo Forest Mystery
 
-I de frodige skogene rundt Oslo, hvor trærne vokser høyt og dyrelivet trives, har det oppstått et uventet mysterium. De vakre binære trærne som en gang var symbolet på harmoni i skogen, har blitt forvandlet til forvirrende speilbilder av seg selv! Dette har skapt forvirring blant skogens skapninger, som nå famler seg gjennom løvverket på jakt etter løsninger.
+In the lush forests surrounding Oslo, where trees grow tall and wildlife thrives, an unexpected mystery has arisen. The beautiful binary trees that once symbolized harmony in the forest have been transformed into confusing reflections of themselves! This has caused confusion among the forest's creatures, who now grope through the foliage in search of solutions.
 
-Din oppgave er å bidra til å gjenopprette balansen i skogen ved å implementere en funksjon som kan reversere denne forvirrende tilstanden og bringe trærne tilbake til deres opprinnelige tilstand.
+Your task is to help restore balance to the forest by implementing a function that can reverse this perplexing state and bring the trees back to their original condition.
 
-Oppgaveinstruksjoner:
+### Task Instructions:
 
-Implementer en metode invertTree, som tar inn rotnoden til et binært tre og reverserer strukturen slik at venstre barn blir høyre barn og vice versa.
+1. Implement a method `invertTree`, which takes the root node of a binary tree and reverses the structure so that the left child becomes the right child and vice versa.
 
-Test din implementasjon ved å bruke funksjonen print_tree_array for å skrive ut både det opprinnelige og det inverterte treet.
+Excample:
+![Screenshot 2024-04-09 at 12 10 59](https://github.com/Martiwj/Oppgaver-Spring-Challeng/assets/127878026/e88ffffe-834f-4a92-bebd-4731bdb8641c)
 
-Bidra til å gjenopprette roen i skogens Oslo-område, og la trærne igjen være en kilde til harmoni og skjønnhet for alle skogens skapninger!
+
+2. Test your implementation by using the `print_tree_array` function to print both the original and the inverted tree.
+
+Contribute to restoring peace in the Oslo forest area, and let the trees once again be a source of harmony and beauty for all the forest's creatures!
