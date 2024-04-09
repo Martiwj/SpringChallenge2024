@@ -1,5 +1,4 @@
-# IFI-båttur Billettfordelingsprosess
-
+# IFI-båttur
 Digøk skal arrangere årets IFI-båttur, og det er stor pågang av ivrige deltakere som ønsker å sikre seg billetter til sommerens store begivenhet. For å håndtere billettsalget, har Digøk satt opp et køsystem hvor deltakerne venter på å kjøpe billetter.
 
 Du har blitt gitt en liste **tickets** av lengde **n**, der **tickets[i]** representerer antall billetter den i-te personen ønsker å kjøpe. Hver person bruker nøyaktig 1 sekund på å kjøpe en billett. En person kan bare kjøpe 1 billett om gangen og må gå tilbake til slutten av køen (noe som skjer umiddelbart) for å kjøpe flere billetter. Hvis en person ikke har flere billetter å kjøpe, forlater personen køen.
