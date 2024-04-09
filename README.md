@@ -1,2 +1,2 @@
-# Oppgaver-Spring-Challeng
+# Oppgaver-Spring-Challenge
 Oppgaver til SC
