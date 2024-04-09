@@ -5,6 +5,28 @@ class TreeNode:
         self.right = right
 
 def construct_tree(tree_list):
+
+    """
+    This method converts a list representation of a binary tree into an actual binary tree structure.
+    
+    Args:
+        tree_list (list): A list representation of a binary tree where each element corresponds to
+                         a node's value. The list follows the level-order traversal of the binary tree,
+                         with 'None' indicating absence of a node at that position.
+
+    Returns:
+        TreeNode: The root node of the constructed binary tree.
+
+    Example:
+        tree_list = [1, 2, 3, None, 4, 5, 6]
+        construct_tree(tree_list) would return the root node of the binary tree:
+               1
+             /   \
+            2     3
+             \   / \
+              4 5   6     
+    """
+    
     if not tree_list:
         return None
 
@@ -15,7 +37,6 @@ def construct_tree(tree_list):
     while i < len(tree_list):
         current_node = queue.pop(0)
 
-        # Handle left child
         if i < len(tree_list) and tree_list[i] is not None:
             left_child = TreeNode(tree_list[i])
             current_node.left = left_child
@@ -33,6 +54,11 @@ def construct_tree(tree_list):
     return root
 
 def print_tree_array(root):
+
+    """
+    This method converts a binary tree back to a list representation.
+    """
+    
     output = []
     if not root:
         return
