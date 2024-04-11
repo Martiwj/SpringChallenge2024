@@ -1,7 +1,7 @@
 Marius, en ifi-student, tok emnet IN2010 - Algoritmer og datastrukturer denne høsten.
 Han synes spesielt at grafer var interessant.
 
-Marius mener at miljøet på ifi er godt, og ser at studenter samarbeider på tvers av linjer, kull og foreninger.
+Marius synes at miljøet på ifi er godt, og ser at studenter samarbeider på tvers av linjer, kull og foreninger.
 Han har en hypotese om at alle ifi-studenter egentlig er knyttet sammen i en stor vennegjeng. Marius definerer en vennegjeng litt utradisjonelt. Det er ikke slik at alle må kjenne alle, men at man er venner gjennom venners venner.
 Si at vi har vennene Karl, og Olav. Olav har vennen Emma, så er også Emma og Karl i samme venngjeng.
 
