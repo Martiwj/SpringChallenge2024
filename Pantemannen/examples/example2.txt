@@ -1,0 +1,2 @@
+start_node = 'FK'
+output: Antall besøkte rom: 20 , Loot score:  367

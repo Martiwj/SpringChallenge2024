@@ -1,0 +1,2 @@
+start_node = 'Ada'
+output: Antall besøkte rom: 19 , Loot score:  333
