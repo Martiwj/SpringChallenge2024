@@ -53,7 +53,7 @@ def construct_tree(tree_list):
 
     return root
 
-def print_tree_array(root):
+def tree_to_array(root):
 
     """
     This method converts a binary tree back to a list representation.
@@ -81,5 +81,5 @@ def print_tree_array(root):
         for l in level:
             output.append(l)
             
-    print(output)
+    return output
     
