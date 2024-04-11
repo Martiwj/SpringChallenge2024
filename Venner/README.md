@@ -1,3 +1,4 @@
+## Marius sin vennehypotese
 Marius, en ifi-student, tok emnet IN2010 - Algoritmer og datastrukturer denne høsten.
 Han synes spesielt at grafer var interessant.
 
@@ -11,9 +12,8 @@ Du har fått dataen hans, men han husker ikke helt hvordan han skal implementere
 
 Formatet er slik:
 
-navn1,venn1;venn2;venn3;venn4;...
-navn2,venn1;venn2;venn3;venn4;...
-navn3,venn1;venn2;venn3;venn4;...
-...
+navn1,venn1;venn2;venn3;venn4;...<br>
+navn2,venn1;venn2;venn3;venn4;...<br>
+navn3,venn1;venn2;venn3;venn4;...<br>
 
-Hjelp Marius å lage et program som skriver ut "hypotesen stemmer", hvis alle er knyttet sammen. Ellers skriver programmet ut antallet vennegjenger.
+<b>Hjelp Marius å lage et program som skriver ut "hypotesen stemmer", hvis alle er knyttet sammen. Ellers skriver programmet ut antallet vennegjenger.</b>
