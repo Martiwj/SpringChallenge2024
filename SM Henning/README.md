@@ -8,4 +8,7 @@ Hver deltaker `i` har en grådighetsfaktor `g[i]`, som er den minimale størrels
 
 Skriv en funkjson som hjelper Henning med dette!
 
-
+input formatet er som følger:
+`g` og `s` skilles på mellorom slik at ved feks: 
+1,2,3 1,1
+vil g = [1,2,3] og s = [1,1]
