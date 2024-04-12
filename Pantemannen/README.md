@@ -10,6 +10,6 @@ Gitt følgende informasjon om IFI-byggets layout:
 - Noen dører krever en nøkkel for å åpnes, og Pantemannen har kun en begrenset mengde nøkler tilgjengelig.
 - Pantemannen starter loot-runden på Fortran og er ferdig når han ikke når lengre. 
 
-Kan du implementere en algoritme som hjelper Pantemannen med å maksimere antall rom besøkt og loot score samlet under loot-runden på IFI-bygget, gitt grafen som representerer byggets layout og en liste over tilgjengelige nøkler? Funksjonen skal returnerer antall rom besøkt og total pant samlet.
+Din oppgave blir å implementer grafen og algoritmen som hjelper Pantemannen med å maksimere antall rom besøkt og loot score samlet under loot-runden på IFI-bygget, gitt grafen som representerer byggets layout og en liste over tilgjengelige nøkler. Funksjonen skal returnerer antall rom besøkt og total pant samlet.
 
 
