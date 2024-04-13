@@ -1,4 +1,4 @@
-# Spring Challenge 2022
+# Spring Challenge 2024
 Maps Spring Challenge er endelig tilbake!
 
 ## Hvor og når?
