@@ -2,7 +2,7 @@
 Maps Spring Challenge er endelig tilbake!
 
 ## Hvor og når?
-Fra og med klokken 10:00 på lørdag 13. april vil MAPS stille med mat, drikke og heliumballonger på C. Vi tilgjengeliggjør oppgavene klokken 11:00, og vil holde på frem til 15:00. Det er også mulig å delta digitalt, for dem som ønsker det 😄
+Fra og med klokken 10:00 på lørdag 13. april vil MAPS stille med mat, drikke på C. Vi tilgjengeliggjør oppgavene klokken 11:00, og vil holde på frem til 15:00. Det er også mulig å delta digitalt, for dem som ønsker det 😄
 
 Det vil bli servert mat og drikke underveis! Alt fra frukt og snacks til giflar og pizza! Kaffe og boblevann! Hurra!
 
